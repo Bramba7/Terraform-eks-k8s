@@ -198,7 +198,7 @@ $ kubectl get deployment
 You can also scale the deployment to ensure there is two nginx pods running:
 
 ```sh
-kubectl scale deployment --replicas 3 webpage
+$ kubectl scale deployment --replicas 3 webpage
 ```
 
 Exposing your pods to the internet
