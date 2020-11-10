@@ -1,4 +1,4 @@
-# Eks-terraform-K8s-
+# Eks-terraform-K8s
 
 ![terraform](https://img.shields.io/badge/Terraform-v0.13.4-green)
 ![aws](https://img.shields.io/badge/aws--cli-v2.0.58-green)
